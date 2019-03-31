@@ -14,3 +14,4 @@
 10. In the Augmented Image Visualizer script, change the video clips list size to whatever you want and add your videos
 
 And voilà, you should have a working project =)
+Don't forget to adjust your settings to deploy on android and properly build your apk.
